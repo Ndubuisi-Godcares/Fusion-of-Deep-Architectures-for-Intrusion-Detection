@@ -1,5 +1,5 @@
 # Network Intrusion Detection System (NIDS) Optimization
-![Python](https://img.shields.io/badge/Language-Python_3.x-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-Research_Complete-green?style=flat-square) ![Domain](https://img.shields.io/badge/Domain-Cybersecurity_%7C_Machine_Learning-orange?style=flat-square)
+![Python](https://img.shields.io/badge/Language-Python_3.12.12-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-Research_Complete-green?style=flat-square) ![Domain](https://img.shields.io/badge/Domain-Cybersecurity_%7C_Machine_Learning-orange?style=flat-square)
 
 ---
 
@@ -35,6 +35,8 @@ The project is divided into two distinct optimization strategies, each contained
     * **Tuning:** GridSearch Hyperparameter optimization (Entropy vs. Gini, Tree Depth).
 * **Algorithm:** Cost-Sensitive Random Forest.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8c5aff50-8cce-45ba-a5be-357c2ba162f3" />
+
 ---
 
 ## Repository Structure
@@ -61,7 +63,7 @@ The following table summarizes the performance metrics achieved by each approach
 ## Installation and Usage
 
 ### Prerequisites
-* Python 3.x
+* Python 3.12.12
 * Jupyter Notebook or Google Colab
 * Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
